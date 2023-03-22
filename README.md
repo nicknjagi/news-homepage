@@ -27,8 +27,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [GitHub repo]()
-- Live Site URL: []()
+- Solution URL: [GitHub repo](https://github.com/nicknjagi/news-homepage)
+- Live Site URL: [https://nicknjagi.github.io/news-homepage/](https://nicknjagi.github.io/news-homepage/)
 
 ## My process
 
